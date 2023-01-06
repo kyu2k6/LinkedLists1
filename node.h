@@ -1,6 +1,6 @@
 #ifndef NODE_H
 #define NODE_H
-i
+
 #include <iostream>
 #include "student.h"
 
